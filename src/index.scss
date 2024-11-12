@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import "bootstrap/scss/bootstrap";
+
+* {
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 1.4rem;
+  --blue-dark: #001c44;
+  --blue-mid: #0c5776;
+  --blue-light: #2d99ae;
+  --blue-cyan: #bcfefe;
+  --skin: #f8dad0;
+}
+
+/**/
+/* button { */
+/*   cursor: pointer; */
+/*   border: solid var(--blue-dark) 0.1rem; */
+/*   color: var(--blue-mid); */
+/*   background-color: #fff; */
+/* } */

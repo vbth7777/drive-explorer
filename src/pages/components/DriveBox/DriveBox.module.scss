@@ -1,0 +1,13 @@
+.container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  flex-direction: column;
+
+  button {
+    font-size: 1.8rem;
+    text-align: left;
+    word-wrap: break-word;
+  }
+}

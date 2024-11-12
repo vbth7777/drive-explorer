@@ -1,0 +1,21 @@
+.container {
+  margin: 0.8rem 0.8rem;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  button {
+    text-transform: uppercase;
+    font-size: 1.4rem;
+  }
+
+  input {
+    width: auto;
+    margin: 0 10px;
+    font-size: 1.4rem;
+    height: 3rem;
+  }
+}
