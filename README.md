@@ -1,6 +1,12 @@
 # Project Name
 
-## Overview
+## Features
+
+- Fast and efficient development with Vite.
+- Modular and reusable component structure.
+- Modern React hooks and context API.
+- Responsive design with SCSS modules.
+- Easy configuration and setup.
 
 This project is a web application built using React and Vite. It provides a modern and efficient development environment for building scalable web applications.
 
