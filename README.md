@@ -52,7 +52,6 @@ npm run lint
 
 After starting the development server, you can access the application in your web browser at `http://localhost:3000`.
 
-## Configuration
+## License
 
-- **vite.config.js**: Configuration file for Vite.
-- **eslint.config.js**: Configuration file for ESLint.
+This project is licensed under the MIT License.
