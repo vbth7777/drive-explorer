@@ -4,18 +4,6 @@
 
 This project is a web application built using React and Vite. It provides a modern and efficient development environment for building scalable web applications.
 
-## Project Structure
-
-- **src/**: Contains the source code of the application.
-  - **App.jsx**: The main application component.
-  - **main.jsx**: The entry point of the application.
-  - **assets/**: Contains static assets like images.
-  - **pages/**: Contains the different pages of the application.
-    - **Home/**: The home page of the application.
-    - **components/**: Reusable components used across different pages.
-
-- **public/**: Contains public assets that are served directly.
-
 ## Installation
 
 To install the project dependencies, run:
@@ -52,7 +40,3 @@ npm run lint
 
 - **vite.config.js**: Configuration file for Vite.
 - **eslint.config.js**: Configuration file for ESLint.
-
-## License
-
-This project is licensed under the MIT License.
